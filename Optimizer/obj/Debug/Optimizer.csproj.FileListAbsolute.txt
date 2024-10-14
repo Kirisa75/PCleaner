@@ -1,0 +1,7 @@
+C:\Users\dksk4\source\repos\Optimizer\Optimizer\bin\Debug\Optimizer.exe.config
+C:\Users\dksk4\source\repos\Optimizer\Optimizer\bin\Debug\Optimizer.exe
+C:\Users\dksk4\source\repos\Optimizer\Optimizer\bin\Debug\Optimizer.pdb
+C:\Users\dksk4\source\repos\Optimizer\Optimizer\obj\Debug\Optimizer.csproj.AssemblyReference.cache
+C:\Users\dksk4\source\repos\Optimizer\Optimizer\obj\Debug\Optimizer.csproj.CoreCompileInputs.cache
+C:\Users\dksk4\source\repos\Optimizer\Optimizer\obj\Debug\Optimizer.exe
+C:\Users\dksk4\source\repos\Optimizer\Optimizer\obj\Debug\Optimizer.pdb
