@@ -114,7 +114,6 @@ namespace Optimizer
             string chromeData_location = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) + @"\Google\Chrome\User Data\Default";
             string cachePath = chromeData_location + @"\Cache\Cache_Data";
             string[] c_cache = Directory.GetFiles(cachePath);
-            Console.WriteLine(c_cache);
 
             if(choose == "Y")
             {
@@ -132,7 +131,7 @@ namespace Optimizer
                 File.Delete(chromeData_location+@"\History");
             }
 
-            string downloadPath = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + @"\Download";
+            string downloadPath = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + @"\Downloads";
             string[] downloadFiles = Directory.GetFiles(downloadPath);
 
             Console.WriteLine("Want to clear Download Folder?");
